@@ -10,3 +10,15 @@
 8. Untuk chaining lebih cocok pada promise
 9. Untuk pemakaian resolve hanya bisa tertampil 1 pada for loop
 10. Untuk get API butuh delay, make async await dibutuhkan until mapping
+
+* Kerangka promise : 
+`const namaFungsi = () => {
+    return new Promise ((resolve,reject) =>{
+    /*Isi code disini*/
+)}`
+
+
+* Kerangka Async Await :
+`(async(){
+    await /*perintah*/
+})
