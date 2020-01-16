@@ -21,4 +21,4 @@
 * Kerangka Async Await :
 `(async(){
     await /*perintah*/
-})
+})`
